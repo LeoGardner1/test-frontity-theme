@@ -1,0 +1,228 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "4e10dee7b4f1337f98f2",
+  "publicPath": "/static/",
+  "outputPath": "C:\\placement\\my-app-subdirectory-test\\build\\static",
+  "assetsByChunkName": {
+    "archive": "archive.module.js",
+    "archive~post": "archive~post.module.js",
+    "frontity": "frontity.module.js",
+    "frontity-cy": "frontity-cy.module.js",
+    "post": "post.module.js"
+  },
+  "assets": [
+    {
+      "name": "archive.module.js",
+      "size": 74612,
+      "chunks": [
+        "archive"
+      ],
+      "chunkNames": [
+        "archive"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "archive~post.module.js",
+      "size": 121407,
+      "chunks": [
+        "archive~post"
+      ],
+      "chunkNames": [
+        "archive~post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-LATIN.woff2",
+      "size": 33648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-US-ASCII.woff2",
+      "size": 22248,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold.woff2",
+      "size": 138872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-LATIN.woff2",
+      "size": 33232,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-US-ASCII.woff2",
+      "size": 21828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium.woff2",
+      "size": 137268,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-LATIN.woff2",
+      "size": 33456,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-US-ASCII.woff2",
+      "size": 22032,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold.woff2",
+      "size": 138088,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "frontity-cy.module.js",
+      "size": 5956009,
+      "chunks": [
+        "frontity-cy"
+      ],
+      "chunkNames": [
+        "frontity-cy"
+      ],
+      "info": {},
+      "emitted": false,
+      "isOverSizeLimit": true
+    },
+    {
+      "name": "frontity.module.js",
+      "size": 5955968,
+      "chunks": [
+        "frontity"
+      ],
+      "chunkNames": [
+        "frontity"
+      ],
+      "info": {},
+      "emitted": false,
+      "isOverSizeLimit": true
+    },
+    {
+      "name": "post.module.js",
+      "size": 30923,
+      "chunks": [
+        "post"
+      ],
+      "chunkNames": [
+        "post"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity": {
+      "chunks": [
+        "frontity"
+      ],
+      "assets": [
+        "frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "frontity-cy": {
+      "chunks": [
+        "frontity-cy"
+      ],
+      "assets": [
+        "frontity-cy.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity": {
+      "chunks": [
+        "frontity"
+      ],
+      "assets": [
+        "frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "frontity-cy": {
+      "chunks": [
+        "frontity-cy"
+      ],
+      "assets": [
+        "frontity-cy.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "archive~post",
+        "archive"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "post": {
+      "chunks": [
+        "archive~post",
+        "post"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "post.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
