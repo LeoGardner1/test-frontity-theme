@@ -24,7 +24,8 @@ const settings = [
        "name": "@frontity/wp-source",
         state: {
           source: {
-            "api": "https://test.frontity.org/wp-json",
+            // "api": "https://test.frontity.org/wp-json",
+            "api": "http://clearing.cardiff.ac.uk/leotest/wp-json",
             params: {
               lang: "en",
             },
@@ -61,7 +62,8 @@ const settings = [
         "name": "@frontity/wp-source",
         state: {
           source: {
-            "api": "https://test.frontity.org/wp-json",
+            // "api": "https://test.frontity.org/wp-json",
+            "api": "http://clearing.cardiff.ac.uk/leotest/wp-json",
             params: {
               lang: "cy",
             },

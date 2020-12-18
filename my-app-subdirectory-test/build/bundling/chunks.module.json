@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "4e10dee7b4f1337f98f2",
+  "hash": "c906732a734629ff5d56",
   "publicPath": "/static/",
-  "outputPath": "C:\\placement\\my-app-subdirectory-test\\build\\static",
+  "outputPath": "C:\\placement\\test-frontity-theme\\my-app-subdirectory-test\\build\\static",
   "assetsByChunkName": {
     "archive": "archive.module.js",
     "archive~post": "archive~post.module.js",
@@ -15,7 +15,7 @@
   "assets": [
     {
       "name": "archive.module.js",
-      "size": 74612,
+      "size": 75060,
       "chunks": [
         "archive"
       ],
@@ -27,7 +27,7 @@
     },
     {
       "name": "archive~post.module.js",
-      "size": 121407,
+      "size": 122359,
       "chunks": [
         "archive~post"
       ],
@@ -111,7 +111,7 @@
     },
     {
       "name": "frontity-cy.module.js",
-      "size": 5956009,
+      "size": 5981492,
       "chunks": [
         "frontity-cy"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "name": "frontity.module.js",
-      "size": 5955968,
+      "size": 5981451,
       "chunks": [
         "frontity"
       ],
@@ -137,7 +137,7 @@
     },
     {
       "name": "post.module.js",
-      "size": 30923,
+      "size": 31091,
       "chunks": [
         "post"
       ],
